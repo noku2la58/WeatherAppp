@@ -9,9 +9,21 @@
         <Frame Padding="16">
         <Label Text="{Binding main.temp}"/>
         </Frame>
+        <Label Text="Pressure" TextColor="White"/>
+        <Frame Padding="16">
         <Label Text="{Binding main.pressure}"/>
-        <Label Text="{Binding main.humidity}"/>
-        <Label Text="{Binding clouds.all}"/>
-        <Label Text="{Binding wind.speed}"/>
+         </Frame>
+        <Label Text="Humidity" TextColor="White"/>
+        <Frame Padding="16">
+            <Label Text="{Binding main.humidity}"/>
+         </Frame>
+        <Label Text="Clouds" TextColor="White"/>
+        <Frame Padding="16">
+            <Label Text="{Binding clouds.all}"/>
+         </Frame>
+        <Label Text="Speed" TextColor="White"/>
+        <Frame Padding="16">
+            <Label Text="{Binding wind.speed}"/>
+        </Frame>
     </StackLayout>
 </ContentPage>
