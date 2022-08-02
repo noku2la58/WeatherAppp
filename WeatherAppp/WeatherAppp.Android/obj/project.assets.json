@@ -3215,11 +3215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Weater.App\\WeatherAppp\\WeatherAppp\\WeatherAppp.Android\\WeatherAppp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Noku5829\\Source\\Repos\\WeatherAppp\\WeatherAppp\\WeatherAppp.Android\\WeatherAppp.Android.csproj",
       "projectName": "WeatherAppp.Android",
-      "projectPath": "C:\\Weater.App\\WeatherAppp\\WeatherAppp\\WeatherAppp.Android\\WeatherAppp.Android.csproj",
+      "projectPath": "C:\\Users\\Noku5829\\Source\\Repos\\WeatherAppp\\WeatherAppp\\WeatherAppp.Android\\WeatherAppp.Android.csproj",
       "packagesPath": "C:\\Users\\Noku5829\\.nuget\\packages\\",
-      "outputPath": "C:\\Weater.App\\WeatherAppp\\WeatherAppp\\WeatherAppp.Android\\obj\\",
+      "outputPath": "C:\\Users\\Noku5829\\Source\\Repos\\WeatherAppp\\WeatherAppp\\WeatherAppp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3240,8 +3240,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Weater.App\\WeatherAppp\\WeatherAppp\\WeatherAppp\\WeatherAppp.csproj": {
-              "projectPath": "C:\\Weater.App\\WeatherAppp\\WeatherAppp\\WeatherAppp\\WeatherAppp.csproj"
+            "C:\\Users\\Noku5829\\Source\\Repos\\WeatherAppp\\WeatherAppp\\WeatherAppp\\WeatherAppp.csproj": {
+              "projectPath": "C:\\Users\\Noku5829\\Source\\Repos\\WeatherAppp\\WeatherAppp\\WeatherAppp\\WeatherAppp.csproj"
             }
           }
         }

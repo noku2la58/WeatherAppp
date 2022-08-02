@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LLuI18VJH0h5zlNLvk/PCfS//RDsRNYL2iD5J8rIbp/ggp7HgKpfUU0unJ/EQrPvcdMKUqgYPqphg4wG5LNr9w==",
+  "dgSpecHash": "G0qAWbUCEMQCgK9RSE6HQlB2HCAbZwv3eaQnFmosRw7iZrQdG5/9d+1iwhkn9fu14nYq/nAH5/1tTz6rCrbtmQ==",
   "success": true,
-  "projectFilePath": "C:\\Weater.App\\WeatherAppp\\WeatherAppp\\WeatherAppp\\WeatherAppp.csproj",
+  "projectFilePath": "C:\\Users\\Noku5829\\Source\\Repos\\WeatherAppp\\WeatherAppp\\WeatherAppp\\WeatherAppp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Noku5829\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Noku5829\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

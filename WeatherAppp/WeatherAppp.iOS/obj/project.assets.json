@@ -1055,11 +1055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Weater.App\\WeatherAppp\\WeatherAppp\\WeatherAppp.iOS\\WeatherAppp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Noku5829\\Source\\Repos\\WeatherAppp\\WeatherAppp\\WeatherAppp.iOS\\WeatherAppp.iOS.csproj",
       "projectName": "WeatherAppp.iOS",
-      "projectPath": "C:\\Weater.App\\WeatherAppp\\WeatherAppp\\WeatherAppp.iOS\\WeatherAppp.iOS.csproj",
+      "projectPath": "C:\\Users\\Noku5829\\Source\\Repos\\WeatherAppp\\WeatherAppp\\WeatherAppp.iOS\\WeatherAppp.iOS.csproj",
       "packagesPath": "C:\\Users\\Noku5829\\.nuget\\packages\\",
-      "outputPath": "C:\\Weater.App\\WeatherAppp\\WeatherAppp\\WeatherAppp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Noku5829\\Source\\Repos\\WeatherAppp\\WeatherAppp\\WeatherAppp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1080,8 +1080,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Weater.App\\WeatherAppp\\WeatherAppp\\WeatherAppp\\WeatherAppp.csproj": {
-              "projectPath": "C:\\Weater.App\\WeatherAppp\\WeatherAppp\\WeatherAppp\\WeatherAppp.csproj"
+            "C:\\Users\\Noku5829\\Source\\Repos\\WeatherAppp\\WeatherAppp\\WeatherAppp\\WeatherAppp.csproj": {
+              "projectPath": "C:\\Users\\Noku5829\\Source\\Repos\\WeatherAppp\\WeatherAppp\\WeatherAppp\\WeatherAppp.csproj"
             }
           }
         }
